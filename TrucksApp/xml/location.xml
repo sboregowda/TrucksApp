@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- <!DOCTYPE location SYSTEM "../dtd/location.dtd"> -->
+
+<locations> 
+
+    <location id="20001">
+        <locationName>location-1</locationName>
+        <locationCode>Chi</locationCode>
+        <customerID>10001</customerID>
+        <addressStreet1>3128 south wells</addressStreet1>
+        <addressStreet2>3R</addressStreet2>
+        <city>Chicago</city>
+        <state>IL</state>
+        <postalCode>60616</postalCode>
+        <!-- <region>Cook</region> -->
+        <locationContactName>Zing</locationContactName>
+        <locationPhone>3333333333</locationPhone>
+        <locationFaxNumber>7468930322</locationFaxNumber>
+        <locationEmailAddress> loc1@gmail.com</locationEmailAddress>
+    </location>
+    <location id="20002">
+        <locationName>location-2</locationName>
+        <locationCode>Mia</locationCode>
+        <customerID>10002</customerID>
+        <addressStreet1>3230 South state St</addressStreet1>
+        <addressStreet2>#290</addressStreet2>
+        <city>Miami</city>
+        <state>FL</state>
+        <postalCode>678945</postalCode>
+        <!-- <region>Cook</region> -->
+        <locationContactName>Shar</locationContactName>
+        <locationPhone>9876543452</locationPhone>
+        <locationFaxNumber>4352718263</locationFaxNumber>
+        <locationEmailAddress> loc2@gmail.com</locationEmailAddress>
+    </location>
+    <location id="20003">
+        <locationName>location-3</locationName>
+        <locationCode>NY</locationCode>
+        <customerID>10005</customerID>
+        <addressStreet1>3380 West Harrison</addressStreet1>
+        <addressStreet2>#123</addressStreet2>
+        <city>NY</city>
+        <state>NY</state>
+        <postalCode>234542</postalCode>
+        <!-- <region>Cook</region> -->
+        <locationContactName>Jeev</locationContactName>
+        <locationPhone>1234567892</locationPhone>
+        <locationFaxNumber>3452719363</locationFaxNumber>
+        <locationEmailAddress> loc3@gmail.com</locationEmailAddress>
+    </location>
+    <location id="20004">
+        <locationName>location-4</locationName>
+        <locationCode>Mal</locationCode>
+        <customerID>10004</customerID>
+        <addressStreet1>3330 Malibu</addressStreet1>
+        <adressStreet2>#333</adressStreet2>
+        <city>Malibu</city>
+        <state>CA</state>
+        <postalCode>122345</postalCode>
+        <!-- <region>Cook</region> -->
+        <locationContactName>Sat</locationContactName>
+        <locationPhone>7652987938</locationPhone>
+        <locationFaxNumber>2135246378</locationFaxNumber>
+        <locationEmailAddress> loc4@gmail.com</locationEmailAddress>
+    </location>
+    <location id="20005">
+        <locationName>location-5</locationName>
+        <locationCode>Chi</locationCode>
+        <customerID>10003</customerID>
+        <addressStreet1>2780 South clarke</addressStreet1>
+        <addressStreet2>62W</addressStreet2>
+        <city>San Francisco</city>
+        <state>CA</state>
+        <postalCode>321123</postalCode>
+        <!-- <region>Cook</region> -->
+        <locationContactName>Megh</locationContactName>
+        <locationPhone>6547927526</locationPhone>
+        <locationFaxNumber>6378990921</locationFaxNumber>
+        <locationEmailAddress> loc5@gmail.com</locationEmailAddress>
+    </location>
+
+</locations>

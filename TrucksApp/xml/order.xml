@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- <!DOCTYPE order SYSTEM "order.dtd"> -->
+
+<orders> 
+
+    <order id="70001"> 
+        <orderDate>02142017</orderDate>
+        <customerID>10003</customerID>
+        <employeeID>90002</employeeID>
+        <truckID>40005</truckID>
+        <isSpecial>Yes</isSpecial>
+        <PONumber>12345</PONumber>
+        <orderTotalAmount>2000</orderTotalAmount>
+    </order>
+    <order id="70002"> 
+        <orderDate> 01272017 </orderDate>
+        <customerID>10004</customerID>
+        <employeeID>90005</employeeID>
+        <truckID>40001</truckID>
+        <isSpecial>No</isSpecial>
+        <PONumber>78907</PONumber>
+        <orderTotalAmount>1569</orderTotalAmount>
+    </order>
+    <order id="70003"> 
+        <orderDate>02112017</orderDate>
+        <customerID>10002</customerID>
+        <employeeID>90001</employeeID>
+        <truckID>40002</truckID>
+        <isSpecial>Yes</isSpecial>
+        <PONumber>81527</PONumber>
+        <orderTotalAmount>1400</orderTotalAmount>
+    </order>
+    <order id="70004"> 
+        <orderDate>01172017</orderDate>
+        <customerID>10001 </customerID>
+        <employeeID>90004</employeeID>
+        <truckID>40003</truckID>
+        <isSpecial>Yes</isSpecial>
+        <PONumber>62719</PONumber>
+        <orderTotalAmount>5000</orderTotalAmount>
+    </order>
+    <order id="70005"> 
+        <orderDate>02092017</orderDate>
+        <customerID>10005</customerID>
+        <employeeID>90003</employeeID>
+        <truckID>40004</truckID>
+        <isSpecial>No</isSpecial>
+        <PONumber>27327</PONumber>
+        <orderTotalAmount>8345</orderTotalAmount>
+    </order>
+
+</orders>

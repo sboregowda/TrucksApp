@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- <!DOCTYPE item SYSTEM "item.dtd"> -->
+
+<items> 
+
+	<item id="12001"> 
+		<itemName>Suzuki</itemName>
+		<itemDescription>Swift 2015</itemDescription>
+		<quantity>3</quantity>
+		<price>20000</price>
+		<transactionID>30002</transactionID>
+	</item>
+
+	<item id="12002"> 
+		<itemName>Honda</itemName>
+		<itemDescription>Honda Accord 2016</itemDescription>
+		<quantity>10</quantity>
+		<price>230000</price>
+		<transactionID>30001</transactionID>
+	</item>
+
+	<item id="12003"> 
+		<itemName>BMW</itemName>
+		<itemDescription>BMW X6 M Sport</itemDescription>
+		<quantity>3</quantity>
+		<price>80000</price>
+		<transactionID>30005</transactionID>
+	</item>
+
+	<item id="12004"> 
+		<itemName>AUDI</itemName>
+		<itemDescription>AUDI TT 2017 Customized</itemDescription>
+		<quantity>1</quantity>
+		<price>50000</price>
+		<transactionID>30004</transactionID>
+	</item>
+
+	<item id="12005"> 
+		<itemName>Ford</itemName>
+		<itemDescription>Ford Mustang GT</itemDescription>
+		<quantity>10</quantity>
+		<price>350000</price>
+		<transactionID>30003</transactionID>
+	</item>
+
+</items>

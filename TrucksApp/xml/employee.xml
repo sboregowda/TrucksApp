@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- <!DOCTYPE employee SYSTEM "employee.dtd"> -->
+
+<employees> 
+
+    <employee id="90001"> 
+        <firstName>Mazen</firstName>
+        <lastName>alhourani</lastName>
+        <email>malhoura@hawk.iit.edu</email>
+        <extension>312</extension>
+        <homePhone>324325345</homePhone>
+        <cellPhone>3128885475</cellPhone>
+        <jobTitle>Developer</jobTitle>
+        <SSN>12345667</SSN>
+        <dirverLicenseNo>A0970982435</dirverLicenseNo>
+        <address>3128 south wells</address>
+        <city>Chicago</city>
+        <state>IL</state>
+        <postalCode>60616</postalCode>
+        <birthDate>03251994</birthDate>
+        <dateHired>10102010</dateHired>
+        <salary>27</salary>
+        <!-- <notes>note-1</notes> -->
+    </employee>
+
+    <employee id="90002"> 
+        <firstName>Greg</firstName>
+        <lastName>Miro</lastName>
+        <email>gmiro@hawk.iit.ed</email>
+        <extension>312</extension>
+        <homePhone>283482394</homePhone>
+        <cellPhone>2345559867</cellPhone>
+        <jobTitle>DevOps</jobTitle>
+        <SSN>444444444</SSN>
+        <dirverLicenseNo>A87608273405</dirverLicenseNo>
+        <address>3333 south wabash</address>
+        <city>Chicago</city>
+        <state>IL</state>
+        <postalCode>60616</postalCode>
+        <birthDate>01011995</birthDate>
+        <dateHired>11112011</dateHired>
+        <salary>30</salary>
+        <!-- <notes>note-2</notes> -->
+    </employee>
+    <employee id="90003"> 
+        <firstName>Nisha</firstName>
+        <lastName>Banur</lastName>
+        <email>gbanur@hawk.iit.ed</email>
+        <extension>412</extension>
+        <homePhone>23423423</homePhone>
+        <cellPhone>3126778229</cellPhone>
+        <jobTitle>Tester</jobTitle>
+        <SSN>999999999</SSN>
+        <dirverLicenseNo>B2323409290</dirverLicenseNo>
+        <address>2951 S King</address>
+        <city>Miami</city>
+        <state>FL</state>
+        <postalCode>637281</postalCode>
+        <birthDate>10251991</birthDate>
+        <dateHired>10252006</dateHired>
+        <salary>45</salary>
+        <!-- <notes>note-3</notes> -->
+    </employee>
+
+    <employee id="90004"> 
+        <firstName>Martin</firstName>
+        <lastName>George</lastName>
+        <email>Mgeorge@hawk.iit.ed</email>
+        <extension>442</extension>
+        <homePhone>234243242</homePhone>
+        <cellPhone>3127785222</cellPhone>
+        <jobTitle>QA</jobTitle>
+        <SSN>123456789</SSN>
+        <dirverLicenseNo>A67248784983</dirverLicenseNo>
+        <address>2231 W clark St</address>
+        <city>Blumington</city>
+        <state>IN</state>
+        <postalCode>566892</postalCode>
+        <birthDate>09021997</birthDate>
+        <dateHired>09192007</dateHired>
+        <salary>90</salary>
+        <!-- <notes>note-4</notes> -->
+    </employee>
+
+    <employee id="90005"> 
+        <firstName>Will</firstName>
+        <lastName>Smith</lastName>
+        <email>wsmith@hawk.iit.ed</email>
+        <extension>425</extension>
+        <homePhone>234123242</homePhone>
+        <cellPhone>4831252771</cellPhone>
+        <jobTitle>WebDeveloper</jobTitle>
+        <SSN>987654321</SSN>
+        <dirverLicenseNo>A2837489248</dirverLicenseNo>
+        <address>5500 King Drive</address>
+        <city>San Jose</city>
+        <state>CA</state>
+        <postalCode>123456</postalCode>
+        <birthDate>10101990</birthDate>
+        <dateHired>08202009</dateHired>
+        <salary>120</salary>
+        <!-- <notes>note-5</notes> -->
+    </employee>
+
+
+</employees>

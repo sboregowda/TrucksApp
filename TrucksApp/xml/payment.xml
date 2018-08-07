@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- <!DOCTYPE payment SYSTEM "payment.dtd"> -->
+
+<payments> 
+    
+    <payment id="50001">
+        <orderID>70005</orderID>
+        <!-- <paymentMethodID>1</paymentMethodID> --> 
+        <paymentAmount>3000</paymentAmount>
+        <paymentDate>02142017</paymentDate>
+        <checkNumber>2819101</checkNumber>
+        <creditCardID>Chase</creditCardID>
+        <creditCardNumber>1234123412341234</creditCardNumber>
+        <cardholderName>Mazen</cardholderName>
+        <creditCardExpDate>0219</creditCardExpDate>
+        <creditCardAuthNumber>123</creditCardAuthNumber>
+    </payment>
+    <payment id="50002">
+        <orderID>70003</orderID>
+        <!-- <paymentMethodID>1</paymentMethodID> --> 
+        <paymentAmount>4000</paymentAmount>
+        <paymentDate>01302017</paymentDate>
+        <checkNumber>2619202</checkNumber>
+        <creditCardID>Chase</creditCardID>
+        <creditCardNumber>0987098709870987</creditCardNumber>
+        <cardholderName>Nisha</cardholderName>
+        <creditCardExpDate>0120</creditCardExpDate>
+        <creditCardAuthNumber>098</creditCardAuthNumber>
+    </payment>
+    <payment id="50003">
+        <orderID>70001</orderID>
+        <!-- <paymentMethodID>1</paymentMethodID> --> 
+        <paymentAmount>3500</paymentAmount>
+        <paymentDate>02142017</paymentDate>
+        <checkNumber>7183910</checkNumber>
+        <creditCardID>Citi</creditCardID>
+        <creditCardNumber>5678567856785678</creditCardNumber>
+        <cardholderName>Shabarish</cardholderName>
+        <creditCardExpDate>1220</creditCardExpDate>
+        <creditCardAuthNumber>567</creditCardAuthNumber>
+    </payment>
+    <payment id="50004">
+        <orderID>70002</orderID>
+        <!-- <paymentMethodID>1</paymentMethodID> --> 
+        <paymentAmount>45687</paymentAmount>
+        <paymentDate>09102004</paymentDate>
+        <checkNumber>234112</checkNumber>
+        <creditCardID>PNC</creditCardID>
+        <creditCardNumber>5647384627382937</creditCardNumber>
+        <cardholderName>Sharanya</cardholderName>
+        <creditCardExpDate>0122</creditCardExpDate>
+        <creditCardAuthNumber>234</creditCardAuthNumber>
+    </payment>
+    <payment id="50005">
+        <orderID>70004</orderID>
+        <!-- <paymentMethodID>1</paymentMethodID> --> 
+        <paymentAmount>45667</paymentAmount>
+        <paymentDate>10102009</paymentDate>
+        <checkNumber>4321234</checkNumber>
+        <creditCardID>citi</creditCardID>
+        <creditCardNumber>1234524638253849</creditCardNumber>
+        <cardholderName>Satwick</cardholderName>
+        <creditCardExpDate>0923</creditCardExpDate>
+        <creditCardAuthNumber>897</creditCardAuthNumber>
+    </payment>
+
+</payments>

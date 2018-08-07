@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- <!DOCTYPE customer SYSTEM "comment.dtd"> -->
+
+<comments>
+
+    <comment id="00001">
+        <commentDateTime>02031992</commentDateTime>
+        <comments>comment-1</comments>
+        <customerID>10001</customerID>
+        <locationID>20001</locationID>
+        <transactionID>30001</transactionID>
+        <truckID>40001</truckID>
+    </comment>
+
+    <comment id="00002">
+        <commentDateTime>03051992</commentDateTime>
+        <comments>comment-2</comments>
+        <customerID>10002</customerID>
+        <locationID>20002</locationID>
+        <transactionID>30002</transactionID>
+        <truckID>40002</truckID>
+    </comment>
+
+    <comment id="00003">
+        <commentDateTime>03111993</commentDateTime>
+        <comments>comment-3</comments>
+        <customerID>10003</customerID>
+        <locationID>20003</locationID>
+        <transactionID>30003</transactionID>
+        <truckID>40003</truckID>
+    </comment>
+
+    <comment id="00004">
+        <commentDateTime>05301993</commentDateTime>
+        <comments>comment-4</comments>
+        <customerID>10004</customerID>
+        <locationID>20004</locationID>
+        <transactionID>30004</transactionID>
+        <truckID>40004</truckID>
+    </comment>
+
+    <comment id="00005">
+        <commentDateTime>12301997</commentDateTime>
+        <comments>comment-5</comments>
+        <customerID>10005</customerID>
+        <locationID>20005</locationID>
+        <transactionID>30005</transactionID>
+        <truckID>40005</truckID>
+    </comment>
+
+
+</comments>

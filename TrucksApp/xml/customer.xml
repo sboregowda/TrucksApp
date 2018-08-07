@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- <!DOCTYPE customer SYSTEM "customer.dtd"> -->
+
+<customers> 
+
+	<customer id="10001">
+		<state>IL</state>
+		<customerName>Mazen-1</customerName>
+		<!-- <businessName>Business-1</businessName> --> 
+		<billingAddress>3128 south wells</billingAddress>
+		<city>Chicago</city>
+		<postalCode>60616</postalCode>
+		<country>USA</country>
+		<phoneNumber>3128885475</phoneNumber>
+		<!-- <otherNumber></otherNumber> --> 
+		<faxNumber>3128985790</faxNumber>
+		<emailAddress>malhoura@hawk.iit.edu</emailAddress>
+		<!-- <customerType>type-1</customerType> --> 
+		<companyName>Amazon Pvt Ltd</companyName> 
+		<contactName>Zing</contactName>
+		<!-- <alternateContactName></alternateContactName> --> 
+		<date>03251992</date>
+	</customer>
+
+	<customer id="10002">
+		<state>IL</state>
+		<customerName>Nisha</customerName>
+		<!-- <businessName>Business-1</businessName> --> 
+		<billingAddress>2801 South King Drive</billingAddress>
+		<city>Chicago</city>
+		<postalCode>60616</postalCode>
+		<country>USA</country>
+		<phoneNumber>3128386743</phoneNumber>
+		<!-- <otherNumber></otherNumber> --> 
+		<faxNumber>3128960981</faxNumber>
+		<emailAddress>nbanur@gmail.com</emailAddress>
+		<!-- <customerType>type-1</customerType> --> 
+		<companyName>Google Inc</companyName> 
+		<contactName>Harry</contactName>
+		<!-- <alternateContactName></alternateContactName> --> 
+		<date>03111993</date>
+	</customer>
+
+	<customer id="10003">
+		<state>IL</state>
+		<customerName>Shabharish</customerName>
+		<!-- <businessName>Business-1</businessName> --> 
+		<billingAddress>2951 south king drive</billingAddress>
+		<city>Chicago</city>
+		<postalCode>60616</postalCode>
+		<country>USA</country>
+		<phoneNumber>3128592801</phoneNumber>
+		<!-- <otherNumber></otherNumber> --> 
+		<faxNumber>3120561927</faxNumber>
+		<emailAddress>ssainag@mail.com</emailAddress>
+		<!-- <customerType>type-1</customerType> --> 
+		<companyName>BMW</companyName> 
+		<contactName>Peter</contactName>
+		<!-- <alternateContactName></alternateContactName> --> 
+		<date>10251991</date>
+	</customer>
+
+	<customer id="10004">
+		<state>NY</state>
+		<customerName>Peter</customerName>
+		<!-- <businessName>Business-1</businessName> --> 
+		<billingAddress>3128 North wells</billingAddress>
+		<city>New York</city>
+		<postalCode>63379</postalCode>
+		<country>USA</country>
+		<phoneNumber>1638426083</phoneNumber>
+		<!-- <otherNumber></otherNumber> --> 
+		<faxNumber>1630273019</faxNumber>
+		<emailAddress>peter@yahoo.co.in</emailAddress>
+		<!-- <customerType>type-1</customerType> --> 
+		<companyName>Disney</companyName> 
+		<contactName>Pan</contactName>
+		<!-- <alternateContactName></alternateContactName> --> 
+		<date>03251989</date>
+	</customer>
+
+	<customer id="10005">
+		<state>CA</state>
+		<customerName>Tom</customerName>
+		<!-- <businessName>Business-1</businessName> --> 
+		<billingAddress>3128 south canal</billingAddress>
+		<city>California</city>
+		<postalCode>16279</postalCode>
+		<country>USA</country>
+		<phoneNumber>1028291638</phoneNumber>
+		<!-- <otherNumber></otherNumber> --> 
+		<faxNumber>1029701756</faxNumber>
+		<emailAddress>tom@hotmail.com</emailAddress>
+		<!-- <customerType>type-1</customerType> --> 
+		<companyName>Apple</companyName> 
+		<contactName>Jerry</contactName>
+		<!-- <alternateContactName></alternateContactName> --> 
+		<date>03251992</date>
+	</customer>
+	
+</customers>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- <!DOCTYPE expense SYSTEM "expense.dtd"> -->
+
+<expenses> 
+
+	<expense id="60001"> 
+		<employeeID>90005</employeeID>
+		<truckID>40001</truckID>
+		<expenseType>Licenses</expenseType>
+		<expenseCategory>Trucks</expenseCategory>
+		<!-- <purposeOfExpense></purposeOfExpense> -->
+		<amount>500</amount>
+		<description>description-1</description>
+		<datePurchased>01152017</datePurchased>
+		<dateSubmitted>01202017</dateSubmitted>
+		<advanceAmount>200</advanceAmount>
+		<paymentMethod>Credit</paymentMethod>
+	</expense>
+
+	<expense id="60002"> 
+		<employeeID>90001</employeeID>
+		<truckID>40002</truckID>
+		<expenseType>Gas</expenseType>
+		<expenseCategory>Trucks</expenseCategory>
+		<!-- <purposeOfExpense> </purposeOfExpense> -->
+		<amount>600</amount>
+		<description>description-2</description>
+		<datePurchased>02222017</datePurchased>
+		<dateSubmitted>02222017</dateSubmitted>
+		<advanceAmount>0</advanceAmount>
+		<paymentMethod> Credit </paymentMethod>
+	</expense>
+
+	<expense id="60003"> 
+		<employeeID>90002</employeeID>
+		<truckID>40003</truckID>
+		<expenseType>Taxes</expenseType>
+		<expenseCategory>Taxes</expenseCategory>
+		<!-- <purposeOfExpense></purposeOfExpense> -->
+		<amount>1650</amount>
+		<description>description-3</description>
+		<datePurchased> 01292017</datePurchased>
+		<dateSubmitted> 01302017 </dateSubmitted>
+		<advanceAmount>0</advanceAmount>
+		<paymentMethod> Check </paymentMethod>
+	</expense>
+
+	<expense id="60004"> 
+		<employeeID>90003</employeeID>
+		<truckID>40004</truckID>
+		<expenseType>Phone</expenseType>
+		<expenseCategory>Office</expenseCategory>
+		<!-- <purposeOfExpense> </purposeOfExpense> --> 
+		<amount>300</amount>
+		<description>description-4</description>
+		<datePurchased> 01122017 </datePurchased>
+		<dateSubmitted> 01192017</dateSubmitted>
+		<advanceAmount>0</advanceAmount>
+		<paymentMethod> Credit </paymentMethod>
+	</expense>
+
+	<expense id="60005"> 
+		<employeeID>90004</employeeID>
+		<truckID>40005</truckID>
+		<expenseType>Salary</expenseType>
+		<expenseCategory>Employees</expenseCategory>
+		<!-- <purposeOfExpense> </purposeOfExpense> -->
+		<amount>5000</amount>
+		<description>description-5</description>
+		<datePurchased> 02052017</datePurchased>
+		<dateSubmitted> 02052017</dateSubmitted>
+		<advanceAmount>2000</advanceAmount>
+		<paymentMethod> Credit </paymentMethod>
+	</expense>
+
+</expenses>

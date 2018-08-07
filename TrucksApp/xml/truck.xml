@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- <!DOCTYPE truck SYSTEM "truck.dtd"> -->
+
+<trucks> 
+<truck id="40001"> 
+	<VIN>234235</VIN>
+	<makeYear>2005</makeYear>
+	<model>SS3999</model>
+	<licensePlateNumber>A23 5648</licensePlateNumber>
+	<employeeID>90001</employeeID>
+	<color> Red</color>
+	<cost>80000</cost>
+</truck>
+<truck id="40002"> 
+	<VIN>3252322</VIN>
+	<makeYear>2010</makeYear>
+	<model>GSX 500 </model>
+	<licensePlateNumber>P78 7584</licensePlateNumber>
+	<employeeID>90002</employeeID>
+	<color>Green</color>
+	<cost>85000</cost>
+</truck>
+<truck id="40003"> 
+	<VIN>234432</VIN>
+	<makeYear>2011</makeYear>
+	<model>AMD 34</model>
+	<licensePlateNumber>BV893 45</licensePlateNumber>
+	<employeeID>90003</employeeID>
+	<color>Blue</color>
+	<cost>75000</cost>
+</truck>
+<truck id="40004"> 
+	<VIN>324234234</VIN>
+	<makeYear>2000</makeYear>
+	<model>S100</model>
+	<licensePlateNumber>A78 8465</licensePlateNumber>
+	<employeeID>90004</employeeID>
+	<color>White</color>
+	<cost>70000</cost>
+</truck>
+<truck id="40005"> 
+	<VIN>321432</VIN>
+	<makeYear>2007</makeYear>
+	<model>V90</model>
+	<licensePlateNumber>Q56 6748</licensePlateNumber>
+	<employeeID>90005</employeeID>
+	<color>Black</color>
+	<cost>90000</cost>
+</truck>
+</trucks>
+

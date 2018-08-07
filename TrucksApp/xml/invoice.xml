@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- <!DOCTYPE invoice SYSTEM "invoice.dtd"> -->
+
+<invoices> 
+
+	<invoice id="11001">
+		<orderID>70001</orderID>
+		<itemID>12005</itemID>
+		<priceID>80004</priceID>
+	</invoice>
+
+	<invoice id="11002">
+		<orderID>70004</orderID>
+		<itemID>12001</itemID>
+		<priceID>80002</priceID>
+	</invoice>
+
+	<invoice id="11003">
+		<orderID>70002</orderID>
+		<itemID>12003</itemID>
+		<priceID>80003</priceID>
+	</invoice>
+
+	<invoice id="11004">
+		<orderID>70003</orderID>
+		<itemID>12002</itemID>
+		<priceID>80005</priceID>
+	</invoice>
+
+	<invoice id="11005">
+		<orderID>70005</orderID>
+		<itemID>12004</itemID>
+		<priceID>80001 </priceID>
+	</invoice>
+
+
+
+</invoices>

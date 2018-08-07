@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- <!DOCTYPE price SYSTEM "price.dtd"> -->
+
+<prices>
+    
+    <price id= "80001">
+        <locationID>20001</locationID>
+        <locationIDFrom>20003</locationIDFrom>
+        <locationIDTo>20001</locationIDTo>
+        <price1>50</price1>
+        <locationCodeFrom>60601</locationCodeFrom>
+        <locationCodeTo>60616</locationCodeTo>
+        <customerID>10004</customerID>
+    </price>
+    <price id= "80002">
+        <locationID>20002</locationID>
+        <locationIDFrom>20002</locationIDFrom>
+        <locationIDTo>20004</locationIDTo>
+        <price1>90</price1>
+        <locationCodeFrom>60608</locationCodeFrom>
+        <locationCodeTo>60606</locationCodeTo>
+        <customerID>10003</customerID>
+    </price>
+    <price id= "80003">
+        <locationID>20003</locationID>
+        <locationIDFrom>20001</locationIDFrom>
+        <locationIDTo>20002</locationIDTo>
+        <price1>200</price1>
+        <locationCodeFrom>60636</locationCodeFrom>
+        <locationCodeTo>60617</locationCodeTo>
+        <customerID>10001</customerID>
+    </price>
+    <price id= "80004">
+        <locationID>20004</locationID>
+        <locationIDFrom>20004</locationIDFrom>
+        <locationIDTo>20001</locationIDTo>
+        <price1>100</price1>
+        <locationCodeFrom>60616</locationCodeFrom>
+        <locationCodeTo>60608</locationCodeTo>
+        <customerID>10002</customerID>
+    </price>
+    <price id= "80005">
+        <locationID>20005</locationID>
+        <locationIDFrom>20002</locationIDFrom>
+        <locationIDTo>20003</locationIDTo>
+        <price1>75</price1>
+        <locationCodeFrom>60234</locationCodeFrom>
+        <locationCodeTo>60616</locationCodeTo>
+        <customerID>10005</customerID>
+    </price>
+
+</prices>
